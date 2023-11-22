@@ -16,7 +16,7 @@ The parts of the code completed by me are in [search.py](/search/search.py) and 
 
 - `A* (A-star) search`, in which the path to explore along the search tree is chosen by a calculation that combines the cost of moving to a given node with the cost of moving from that node to the final destination. Like uniform-cost search, this search progresses from the path with the lowest cost to the highest.
 
-[searchAgents.py](/search/searchAgents.py) defines the Pac-Man agent's goals and search heuristics. The parts of the program intended to be altered by the user are:
+[searchAgents.py](/search/searchAgents.py) defines the Pac-Man agent's goals and search heuristics.
 
 - The class `CornersProblem`, which sets the goal of exploring all four corners of the Pac-Man game space.
 
