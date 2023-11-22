@@ -1,10 +1,10 @@
 # Project 1: Search
 
-This is my implementation of a program that trains an AI agent to play the classic arcade game of Pac-Man, developed by [UC Berkeley](http://ai.berkeley.edu). Its purpose is to demonstrate the use of map-searching algorithms and heuristics - 'heuristic' being a term that simply means a method of solving a problem.
+This is my implementation of a program that trains an AI agent to play the classic arcade game of Pac-Man. Its purpose is to demonstrate the use of map-searching algorithms and heuristics - 'heuristic' being a term that simply means a method of solving a problem.
 
 ### Description
 
-The parts of the code completed by me are in `search.py` and `searchAgents.py`, in sections marked `"*** YOUR CODE HERE ***"`.
+The parts of the code completed by me are in `search.py` and `searchAgents.py`.
 
 `search.py` contains four different algorithms used by AIs to search simulated spaces:
 
