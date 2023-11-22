@@ -4,7 +4,7 @@ This is my implementation of a program that trains an AI agent to play the class
 
 ### Description
 
-The parts of the code completed by me are in `[search.py](/search/search.py)` and [searchAgents.py](/search/searchAgents.py).
+The parts of the code completed by me are in [search.py](/search/search.py) and [searchAgents.py](/search/searchAgents.py).
 
 [search.py](/search/search.py) contains four different algorithms used by AIs to search simulated spaces:
 
