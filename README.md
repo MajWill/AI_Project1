@@ -6,7 +6,7 @@ This is my implementation of a program that trains an AI agent to play the class
 
 The parts of the code completed by me are in `search.py` and `searchAgents.py`.
 
-`search.py` contains four different algorithms used by AIs to search simulated spaces:
+[search.py](/search/search.py) contains four different algorithms used by AIs to search simulated spaces:
 
 - Depth-first search, in which a branch of a search tree is chosen and explored branch-by-branch along a sequence of nodes until an end is reachedCollegem, and the search starts over from the root to arefollow a new path of branches.
 
