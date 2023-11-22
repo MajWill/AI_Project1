@@ -1,10 +1,8 @@
 # Project 1: Search
 
-This is my implementation of a program that trains an AI agent to play the classic arcade game of Pac-Man. All the code is in the [search](/search) folder.
+This is my implementation of a program that trains an AI agent to play the classic arcade game of Pac-Man. All the files in the [search](/search) folder were provided to me by the instructor and tutor. The parts of the code completed by me are in [search.py](/search/search.py) and [searchAgents.py](/search/searchAgents.py).
 
 ### Description
-
-The parts of the code completed by me are in [search.py](/search/search.py) and [searchAgents.py](/search/searchAgents.py).
 
 [search.py](/search/search.py) contains four different algorithms used by AIs to search simulated spaces:
 
