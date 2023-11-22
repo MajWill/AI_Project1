@@ -4,7 +4,7 @@ This is my implementation of a program that trains an AI agent to play the class
 
 ### Description
 
-The parts of the code completed by me are in `search.py` and `searchAgents.py`.
+The parts of the code completed by me are in [search.py](/search/search.py) and [searchAgents.py](/search/searchAgents.py).
 
 [search.py](/search/search.py) contains four different algorithms used by AIs to search simulated spaces:
 
@@ -30,10 +30,10 @@ The parts of the code completed by me are in `search.py` and `searchAgents.py`.
 
 You can run all of the test cases on this code by opening a terminal and executing the command:
 
-    $ python autograder.py
+    python3 autograder.py
 
 You can also run individual test cases by executing the command (you can replace "q1" with any of the choices q1-q8):
 
-    $ python autograder.py -q q1
+    python3 autograder.py -q q1
 
-To watch a Pac-Man game progress, use the `pacman.py` script to animate the agent searching various domains. You can do this by executing any of the commands in `commands.txt`.
+To watch a Pac-Man game progress, use the [pacman.py](/search/pacman.py) script to animate the agent searching various domains. You can do this by executing any of the commands in [commands.txt](/search/commands.txt).
